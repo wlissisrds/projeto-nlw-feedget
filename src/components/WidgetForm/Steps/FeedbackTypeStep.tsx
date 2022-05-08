@@ -1,4 +1,4 @@
-import { FeedBackType, feedBackTypes } from "..";
+import { FeedBackType, feedBackTypes } from "../";
 import { CloseButton } from "../../CloseButton";
 
 interface FeedbackTypeStepProps {
